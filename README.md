@@ -6,4 +6,4 @@ Jinkela v2ray publish
 
 域名随时会被污染, 我们会在这里及时公布新的网址:
 
-http://www.jinkela.pw
+https://www.jinkela.pw
