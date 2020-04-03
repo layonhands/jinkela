@@ -7,3 +7,6 @@ Jinkela v2ray publish
 域名随时会被污染, 我们会在这里及时公布新的网址:
 
 https://www.jinkela.pw
+https://www.jinkela.red
+https://www.jinkela.xyz
+https://www.jinkela.best
