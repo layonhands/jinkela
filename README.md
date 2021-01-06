@@ -1,5 +1,6 @@
 # jinkela
-Jinkela v2ray publish
+
+永久域名: https://jinkela.wtf
 
 
 请收藏这github网址， 请收藏这github网址， 请收藏这github网址！
